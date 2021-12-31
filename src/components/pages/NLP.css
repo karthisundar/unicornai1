@@ -1,0 +1,25 @@
+.hello {
+  background-color: white;
+}
+
+.h1 {
+  align-items: center;
+  color: blanchedalmond;
+}
+.img-fulid {
+  max-height: 100%;
+  max-width: auto;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 5px;
+}
+.grid-container > div {
+  color: black;
+}
+.motionless__banner {
+  margin-bottom: 1rem;
+  width: 100%;
+  padding: .5rem 1rem;
+}
